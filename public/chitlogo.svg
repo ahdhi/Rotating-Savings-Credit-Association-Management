@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+  <!-- Background -->
+  <rect width="240" height="80" fill="white"/>
+  
+  <!-- Logo Mark -->
+  <g transform="translate(20, 20)">
+    <!-- Overlapping circles representing community/fund pool -->
+    <circle cx="25" cy="25" r="20" fill="#0284c7" opacity="0.9"/>
+    <circle cx="35" cy="20" r="20" fill="#0ea5e9" opacity="0.7"/>
+    <circle cx="15" cy="20" r="20" fill="#0369a1" opacity="0.8"/>
+    
+    <!-- "CF" monogram -->
+    <text x="25" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">CF</text>
+  </g>
+  
+  <!-- Company name -->
+  <g transform="translate(80, 34)">
+    <text font-family="Arial, sans-serif" font-weight="600" fill="#0c4a6e">
+      <tspan x="0" y="0" font-size="18">CHIT FUND</tspan>
+      <tspan x="0" y="20" font-size="12" letter-spacing="2">MANAGER</tspan>
+    </text>
+  </g>
+  
+  <!-- Horizontal line -->
+  <line x1="80" y1="58" x2="200" y2="58" stroke="#0ea5e9" stroke-width="2"/>
+</svg>
