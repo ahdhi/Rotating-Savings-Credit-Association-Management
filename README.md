@@ -2,8 +2,6 @@
 
 A comprehensive web application for managing a Rotating Savings and Credit Association, also known as a Chit Fund. This platform helps members contribute regular payments, track contributions, manage payouts, and vote on fund recipients.
 
-![Chit Fund Manager Screenshot](https://placeholder-image.com/rosca-app-screenshot.png)
-
 ## Overview
 
 The ROSCA Management system is built to streamline the administration of chit funds, improving transparency and reducing the manual work involved in tracking payments, approvals, and payouts. It's designed for both administrators and regular members with appropriate permission levels.
